@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background: #505355;
+  color: #fff;
+  border-radius: 20px;
+  height: 40px;
+}
+
+button:hover {
+  background: #5becd8;
+}
